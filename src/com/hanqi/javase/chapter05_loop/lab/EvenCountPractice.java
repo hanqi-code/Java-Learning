@@ -1,4 +1,4 @@
-package com.hanqi.javase.chapter05_loop;
+package com.hanqi.javase.chapter05_loop.lab;
 
 public class EvenCountPractice {
     public static void main(String[] args) {
@@ -8,6 +8,6 @@ public class EvenCountPractice {
                 count++;
             }
         }
-        System.out.println("统计1~100 中有"+count+"偶数");
+        System.out.println("1~100 中共有 " + count + " 个偶数");
     }
 }
