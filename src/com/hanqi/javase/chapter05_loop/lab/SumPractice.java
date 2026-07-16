@@ -8,7 +8,7 @@ public class SumPractice {
             sum += i;
         }
         System.out.println("for方法求1~100 的总和:" + sum);
-        System.out.println("------------------");
+        System.out.println("----------------");
         // while方法求1~100 的和
         sum = 0;
         int j = 1;
