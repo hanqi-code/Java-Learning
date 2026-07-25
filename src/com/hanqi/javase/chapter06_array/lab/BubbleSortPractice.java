@@ -5,9 +5,8 @@ public class BubbleSortPractice {
         int[] arr = {50, 20, 40, 10, 30};
         for (int i = 0; i < arr.length - 1; i++) {
             for (int j = 0; j < arr.length - 1 - i; j++) {
-                int temp = 0;
                 if (arr[j] > arr[j + 1]) {
-                    temp = arr[j];
+                    int temp = arr[j];
                     arr[j] = arr[j + 1];
                     arr[j + 1] = temp;
                 }
