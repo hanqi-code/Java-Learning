@@ -5,6 +5,14 @@ public class Student {
     int age;
     double score;
 
+    public Student() {
+    }
+
+    public Student(String name, int age, double score) {
+        this.name = name;
+        this.age = age;
+        this.score = score;
+    }
     public void showInfo() {
         System.out.println("姓名：" + name);
         System.out.println("年龄：" + age);

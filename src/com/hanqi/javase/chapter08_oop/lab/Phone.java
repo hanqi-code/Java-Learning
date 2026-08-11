@@ -5,6 +5,14 @@ public class Phone {
     double price;
     String color;
 
+    public Phone() {
+    }
+
+    public Phone(String brand, double price, String color) {
+        this.brand = brand;
+        this.price = price;
+        this.color = color;
+    }
     public void showInfo(){
         System.out.println("手机品牌：" + brand);
         System.out.println("手机价格：" + price);
