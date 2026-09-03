@@ -180,24 +180,4 @@ enum         → 固定几个合法选项
 - [x] enum 枚举
 - [x] Game Account System 综合练习
 
-## 5. 下一章
 
-```text
-Chapter11：Inheritance
-```
-
-下一步进入 Java 继承：
-
-```java
-class Dog extends Animal {
-}
-```
-
-重点：
-
-```text
-extends
-父类 / 子类
-super
-方法重写 @Override
-```
