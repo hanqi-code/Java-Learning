@@ -1,4 +1,4 @@
-package com.hanqi.javase.chapter10_static_final;
+package com.hanqi.javase.chapter10_static_final_enum;
 
 public class ArrayTest {
     public static void main(String[] args) {
