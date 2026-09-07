@@ -13,9 +13,5 @@ public class Chef extends Employee {
         System.out.println(super.getName() + "炒饭");
     }
 
-    public void showInfo() {
-        System.out.println("employeeId='" + super.getEmployeeId() + '\'' +
-                ", name='" + super.getName() + '\'' +
-                ", salary=" + super.getSalary());
-    }
+
 }

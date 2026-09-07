@@ -38,11 +38,18 @@ public class Employee {
         this.salary = salary;
     }
 
+
     public void work() {
         System.out.println("工作");
     }
 
     public void eat() {
         System.out.println(getName() + " is eating rice.");
+    }
+
+    public void showInfo() {
+        System.out.println("employeeId='" + this.employeeId + '\'' +
+                ", name='" + this.name + '\'' +
+                ", salary=" + this.salary);
     }
 }
