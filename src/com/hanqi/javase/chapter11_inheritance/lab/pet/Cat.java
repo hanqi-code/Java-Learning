@@ -1,4 +1,4 @@
-package com.hanqi.javase.chapter11_inheritance.lab;
+package com.hanqi.javase.chapter11_inheritance.lab.pet;
 
 public class Cat extends Pet {
     public void catchMouse() {

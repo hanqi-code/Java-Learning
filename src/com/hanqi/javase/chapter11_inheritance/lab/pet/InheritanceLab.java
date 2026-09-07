@@ -1,4 +1,4 @@
-package com.hanqi.javase.chapter11_inheritance.lab;
+package com.hanqi.javase.chapter11_inheritance.lab.pet;
 
 public class InheritanceLab {
     public static void main(String[] args) {

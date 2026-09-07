@@ -1,4 +1,4 @@
-package com.hanqi.javase.chapter11_inheritance.lab;
+package com.hanqi.javase.chapter11_inheritance.lab.pet;
 
 public class Pet {
     String name;
