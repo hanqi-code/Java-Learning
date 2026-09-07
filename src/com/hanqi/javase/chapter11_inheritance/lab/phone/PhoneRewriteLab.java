@@ -1,4 +1,4 @@
-package com.hanqi.javase.chapter11_inheritance.lab;
+package com.hanqi.javase.chapter11_inheritance.lab.phone;
 
 public class PhoneRewriteLab {
     public static void main(String[] args) {

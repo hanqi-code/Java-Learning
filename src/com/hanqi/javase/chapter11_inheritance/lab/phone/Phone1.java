@@ -1,4 +1,4 @@
-package com.hanqi.javase.chapter11_inheritance.lab;
+package com.hanqi.javase.chapter11_inheritance.lab.phone;
 
 public class Phone1 {
     public void call() {
