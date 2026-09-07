@@ -1,4 +1,4 @@
-package com.hanqi.javase.chapter11_inheritance.lab;
+package com.hanqi.javase.chapter11_inheritance.lab.person;
 
 public class ConstructorInheritanceLab {
     public static void main(String[] args) {
